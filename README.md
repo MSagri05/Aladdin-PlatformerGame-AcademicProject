@@ -31,25 +31,6 @@ https://www.youtube.com/watch?v=U_tKk14pCtg
 3. Ensure all image assets are placed in the `data/` folder.
 4. Open and run the main `A4 M1.pde` file in Processing.
 
----
-
-## Folder Structure
-/Aladdin-PlatformerGame-AcademicProject
-├── A4_M1.pde
-├── Background.pde
-├── Block.pde
-├── Character.pde
-├── Coin.pde
-├── Enemy.pde
-├── Health.pde
-├── Key.pde
-├── MovingBlock.pde
-├── Princess.pde
-├── SlipperyBlock.pde
-├── Token.pde
-└── Treasure.pde
-├── README.pde
-
 
 ---
 
